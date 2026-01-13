@@ -77,3 +77,6 @@ but what i want to see in the future is this API be fully automated AI video cre
 any suggestion is welcomed
 - i tried google colab to run hugging face models but again with the free tier it is not enough i guess
 - it alawys gives me a memory alocation problem
+
+## link to colab notebook 
+[https://colab.research.google.com/drive/1SrbHYV9HIPHvJL1VJqqMZqtCUPadDXB0?usp=sharing]
