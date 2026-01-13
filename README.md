@@ -54,3 +54,12 @@ All in **strict JSON**.
     }
   ]
 }
+
+## Project Scope
+
+SceneForge focuses only on scene planning.
+It does not:
+Generate images
+Generate videos
+Handle audio or narration
+Those are intentional future extensions. also i want this to be 100% free and can be used by anyone anywhere, but API integeration is not supported yet on any platoform - but what i want to see in the future is this API be fully automated AI video creator
