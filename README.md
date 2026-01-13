@@ -54,6 +54,9 @@ All in **strict JSON**.
     }
   ]
 }
+```
+
+---
 
 ## Project Scope
 
@@ -62,4 +65,15 @@ It does not:
 Generate images
 Generate videos
 Handle audio or narration
-Those are intentional future extensions. also i want this to be 100% free and can be used by anyone anywhere, but API integeration is not supported yet on any platoform - but what i want to see in the future is this API be fully automated AI video creator
+Those are intentional future extensions.
+
+```json 
+also i want this to be 100% free and can be used by anyone anywhere,
+but API integeration is not supported yet on any platoform
+but what i want to see in the future is this API be fully automated AI video creator
+```
+
+## Suggestions
+any suggestion is welcomed
+- i tried google colab to run hugging face models but again with the free tier it is not enough i guess
+- it alawys gives me a memory alocation problem
